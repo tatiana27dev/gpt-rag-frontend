@@ -1,3 +1,4 @@
+#Execute in windows os
 #!/usr/bin/env bash
 echo "starting script"
 
